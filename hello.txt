@@ -5,7 +5,3 @@ second
 third
 
 fourth local
-
-fourth remote
-
-Nazar's edit
