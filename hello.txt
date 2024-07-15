@@ -4,4 +4,8 @@ second
 
 third
 
+<<<<<<< HEAD
 fourth local
+=======
+fourth remote
+>>>>>>> 1180f31a136e48396979d7ef8cebfdebb62f5b64
